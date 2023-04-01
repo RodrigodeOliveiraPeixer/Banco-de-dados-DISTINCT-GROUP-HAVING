@@ -37,3 +37,23 @@
 <img src="https://user-images.githubusercontent.com/109769171/229310401-619629c0-8485-4846-9d1d-c731d6bd0aa3.png" width="980px" />
 </div>
 </br>
+
+<br>
+ 5 - Usando GROUP para agrupar os anos e utilizando COUNT para realizar a contagem de cada curso que tem em cada ano de forma decrescente
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/229310516-fe1bb99d-915a-46c7-9512-79d64b2a77e4.png" width="980px" />
+</div>
+</br>
+
+<br>
+ 6 - Usando GROUP para agrupar os anos e utilizando COUNT para realizar a contagem de cada curso que tem em cada ano de forma decrescente e usando HAVING para mostrar somente os cursos depois de 2013
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/229310706-a7be3e51-3b4d-4f8c-930e-69e39b15b417.png" width="980px" />
+</div>
+</br>
+
+
