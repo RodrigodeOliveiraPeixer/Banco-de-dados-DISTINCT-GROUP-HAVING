@@ -30,5 +30,20 @@ order by count(*) desc;
 select ano, count(*) from cursos
 group by ano
 having ano > 2013
-order by count(*) des
+order by count(*) desc;
+
+7 - estou selecionando carga e o total de horas em cursos onde o ano seja acima de 2015 agrupando por carga mas eu não quero mostrar quem tem carga baixa, somente quem tem carga horária acima da media
+
+select carga, count(*) from cursos
+where ano > 2015
+group by carga
+having carga > (select avg(carga) from cursos);
+
+
+
+
+
+
+
+
 
