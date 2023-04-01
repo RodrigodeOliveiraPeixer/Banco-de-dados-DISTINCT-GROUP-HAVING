@@ -18,3 +18,17 @@ group by carga;
 select carga, count(nome) from cursos
 where totaulas = 30
 group by carga;
+
+5 - Usando GROUP para agrupar os anos e utilizando COUNT para realizar a contagem de cada curso que tem em cada ano de forma decrescente
+
+select ano, count(*) from cursos
+group by ano
+order by count(*) desc;
+
+6 - Usando GROUP para agrupar os anos e utilizando COUNT para realizar a contagem de cada curso que tem em cada ano de forma decrescente e usando HAVING para mostrar somente os cursos depois de 2013
+
+select ano, count(*) from cursos
+group by ano
+having ano > 2013
+order by count(*) des
+
