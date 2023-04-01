@@ -56,4 +56,13 @@
 </div>
 </br>
 
+<br>
+ 7 - estou selecionando carga e o total de horas em cursos onde o ano seja acima de 2015 agrupando por carga mas eu não quero mostrar quem tem carga baixa, somente quem tem carga horária acima da media
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/229311123-804a2270-10b2-490a-843a-ea0c5c5c849b.png" width="980px" />
+</div>
+</br>
+
 
